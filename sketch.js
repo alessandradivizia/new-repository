@@ -25,7 +25,7 @@ function draw() {
     // Eyes 
     fill(0, 255, 0);
     ellipse(221, 115, 16, 32);
-    ellipse(221, 125, 16, 32);
+    ellipse(230, 115, 16, 32);
 
     //Legs
     line(230, 195, 220, 205);
